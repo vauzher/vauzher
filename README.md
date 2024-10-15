@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Full Stack Developer<br>🔭 I’m currently working on Movies Streaming App<br>🌱 I’m currently learning Django<br>🌟 My goal is to create software that not only functions flawlessly but also provides an exceptional user experience.
+🚀 Passionate Full Stack Developer<br>🔭 I’m currently working on Applicants Management App for our Company<br>🌱 I’m currently learning Django<br>🌟 My goal is to create software that not only functions flawlessly but also provides an exceptional user experience.
 
 
 ## 🌐 Socials:
